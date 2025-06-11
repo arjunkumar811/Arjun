@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 - ✨ [SaaS Product](https://github.com/arjunkumar811/Code-Editor) – SaaS Product
-- 🧠 [Persnol Project](https://github.com/arjunkumar811/Brainly-App) – Persnol Project
+- 🧠 [Persona Project](https://github.com/arjunkumar811/Brainly-App) – Persnol Project
 - 📚 [Advance Project](https://github.com/arjunkumar811/Excalidraw) – Advance Project
 
 ## 🌱 Currently Learning
